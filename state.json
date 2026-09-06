@@ -2,6 +2,5 @@
   "watermark": "2026-09-06T11:48:58Z",
   "records": 5464,
   "source": "n8n-io/n8n",
-  "backfilledAt": "2026-09-06T10:43:18.909705Z",
-  "_note": "watermark rolled back deliberately to force multi-page pagination; the next run advances it"
+  "backfilledAt": "2026-09-06T10:43:18.909705Z"
 }
